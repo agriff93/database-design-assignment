@@ -1,0 +1,1 @@
+I'd probably add in a set data type for free, standard and premium. A playlist ID connected to the user_id will allow for the user to be connected to the separate playlists that they will make.
